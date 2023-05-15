@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894764795680",
+    "project_id": "amachi-a4d95",
+    "storage_bucket": "amachi-a4d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894764795680:android:5b222d0c9fd194b141b945",
+        "android_client_info": {
+          "package_name": "com.example.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894764795680-fom2dibbpapkbsfjcgtinb1h7cjg06l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYk8uCmVTN8LjwS116YHdEqCZaUxIJ5xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894764795680-fom2dibbpapkbsfjcgtinb1h7cjg06l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
